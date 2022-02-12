@@ -1,1 +1,6 @@
 Hello, my name is "Abigail Pinkus" and I am working on hw1
+Hello Abigail, 
+I look forward to collaborating with you on this project.
+Kindly,
+Jason Jones
+We started working together on (02/09/2022).
